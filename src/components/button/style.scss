@@ -1,0 +1,17 @@
+.z-button {
+  background-color: #EA4335;
+  color: #FFFFFF;
+  padding: 0;
+  width: 125px;
+  height: 44px;
+  line-height: 44px;
+  text-align: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.z-button.ghost {
+  background-color: transparent;
+  width: auto;
+}
